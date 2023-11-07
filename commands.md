@@ -1,42 +1,77 @@
-# Commands:
+## Table of Cnntents:
+- [General Commands](https://github.com/kurtissfrost/chat-commands/edit/main/commands.md#general-commands)
+- [Kaizo Commands](https://github.com/kurtissfrost/chat-commands/edit/main/commands.md#kaizo-commands)
+- [Sanctuary Commands](https://github.com/kurtissfrost/chat-commands/edit/main/commands.md#sanctuary-commands)
+
+# General Commands:
+| **Command:** | **Description:**                                     |
+|--------------|------------------------------------------------------|
+| !dadjoke     | Displays a dad joke                                  |
+| !battle      | Displays the last battle results for Stream Raiders  |
+| !commands    | links to the commands list                           |
+| !discord     | Links to the discord                                 |
+| !emotes      | Links to emotes list                                 |
+| !gregg       | try it lol                                           |
+| !helpme      | Backseat gaming allowed. Tips, tricks, and spoilers. |
+| !hints       | No backseat gaming please.                           |
+| !IG          | link to instagram                                    |
+| !lucky       | Do you feel lucky?                                   |
+| !lurk        | let us know you're lurking                           |
+| !night       | Tell a homie goodnight                               |
+| !paradox     | Goofy.                                               |
+| !pc          | My pc specs                                          |
+| !prime       | Support me with prime gaming, if you want :)         |
+| !quote1      | Community quote                                      |
+| !quote2      | Community quote                                      |
+| !rules       | Chat rules                                           |
+| !song        | Displays current song                                |
+| !speed1      | Speed run record 1                                   |
+| !speed2      | Speed run record 2                                   |
+| !speed3      | Speed run record 3                                   |
+| !twitter     | link to twitter                                      |
+| !yt          | link to youtube                                      |
 
 <br>
 
-| Commands    | Description                                      |
-| ----------- | ------------------------------------------------ |
-| !8ball      | Ask the magic 8-ball a question                  |
-| !accountage | Display the user's account age                   |
-| !chatstats  | Display the user's chat statistics               |
-| !Commands   | Links to a list of available commands           |
-| !commands   | Links to a document with all the chat commands  |
-| !commands   | Display a list of available commands             |
-| !discord    | Links to the Discord server                      |
-| !emerald    | Try your luck                                    |
-| !followage  | Display how long the user has been following     |
-| !health     | An important message about mental health        |
-| !help       | Help with the current game                       |
-| !hints      | No hints or spoilers, please                    |
-| !ig         | Links to Instagram                               |
-| !join       | Joins the current raffle                         |
-| !kaizo      | A kaizo joke                                     |
-| !lucky     | How lucky are you?                               |
-| !lurk      | Let the streamer know you're lurking             |
-| !music     | Displays info about the music from OCRemix      |
-| !paradox   | Posts a funny paradox in chat                    |
-| !pb       | Personal Best in kaizo                          |
-| !pc       | Displays streamer's current PC specs             |
-| !points   | Displays the amount of Emeralds the user has     |
-| !quote1   | Funny quotes                                    |
-| !quote2   | Funny quotes                                    |
-| !ronmonm  | What is Ronmonm?                                |
-| !roulette | Take a chance and try to earn more emeralds in a game of roulette |
-| !rules    | List of channel rules                           |
-| !slots    | Take a chance and try to earn more emeralds in a game of slots |
-| !speed1   | Speed run results for Way of the Samurai 3     |
-| !speed2   | Speed run results for Way of the Samurai 4     |
-| !speed3   | Speed run results for Way of the Samurai 5     |
-| !store    | A link to my sound store where you can spend Emerald's to play wacky SFX |
-| !twitter  | Links to Twitter                                |
-| !uptime   | Displays the amount of time the stream has been live |
-| !watchtime | Displays how long the user has been watching the stream |
-| !yt       | Links to YouTube                                 |
+# Kaizo Commands:
+
+| **Command:**  | **Decription:**       |
+|---------------|-----------------------|
+| !ironmon      | More info on ironmon  |
+| !kaizo        | WIP                   |
+| !pb           | Current Personal Best |
+| !grovyle      | Grovyle clip          |
+| !ability      | Tracker command.      |
+| !about        | Tracker command.      |
+| !bst          | Tracker command.      |
+| !coverage     | Tracker command.      |
+| !gamestats    | Tracker command.      |
+| !healsinbag   | Tracker command.      |
+| !healingitems | Tracker command.      |
+| !help         | Tracker command.      |
+| !trackerhelp  | Tracker command.      |
+| !move         | Tracker command.      |
+| !pokemon      | Tracker command.      |
+| !mon          | Tracker command.      |
+| !route        | Tracker command.      |
+| !revo         | Tracker command.      |
+
+<br>
+
+# Sanctuary Commands:
+
+<br>
+
+| **Command:** | **Details:**                      |
+|--------------|-----------------------------------|
+| !assassin    | Displays info on assassin class   |
+| !barbarian   | Displays info on barbarian class  |
+| !classes     | links to a wiki about the classes |
+| !currenthero | displays info on current hero     |
+| !druid       | Displays info on druid class      |
+| !paladin     | Displays info on paladin class    |
+| !randomhero  | displays info on previous hero    |
+| !ranger      | Displays info on ranger class     |
+| !rng         | RNG number gen for classes        |
+| !sanctuary   | Details about the game            |
+| !wizard      | Displays info on wizard class     |
